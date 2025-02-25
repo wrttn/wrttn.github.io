@@ -4,7 +4,7 @@ author: Jalaluddin Rumi
 layout: default
 ---
 
-*Translation by Coleman Barks:*
+*Translation by Coleman Barks (2004):*
 
 This being human is a guest house.
 Every morning a new arrival.
@@ -29,7 +29,7 @@ Be grateful for whoever comes,
 because each has been sent
 as a guide from beyond.
 
-*Translation by Kabir Helminski:*
+*Translation by Kabir Helminski (1998):*
 
 Darling, the body is a guest house;
 every morning someone new arrives.
@@ -80,3 +80,53 @@ let it go and still be pleased.
 Increase your sweet practice.
 Your practice will benefit you at another time;
 someday your need will be suddenly fulfilled.
+
+*Translation by Reynold A. Nicholson (1977):*
+
+This body, O youth, is a guest-house: every morning a new
+guest comes running (into it).
+Beware, do not say, “The (guest) is a burden to me,” for
+presently he will fly back into non-existence.
+Whatsoever comes into thy heart from the invisible world is
+thy guest: entertain it well!
+
+Every day, too, at every moment a (different) thought comes,
+like an honoured guest, into thy bosom.
+O (dear) soul, regard thought as a person, since (every) person
+derives his worth from thought and spirit.
+If the thought of sorrow is waylaying (spoiling) joy, (yet) it
+is making preparations for joy.
+It violently sweeps thy house clear of (all) else, in order that
+new joy from the source of good may enter in.
+It scatters the yellow leaves from the bough of the heart, in
+order that incessant green leaves may grow.
+It uproots the old joy, in order the new delight may march
+in from the Beyond.
+Sorrow pulls up the crooked rotten (root), in order that it may
+disclose the root that is veiled from sight.
+Whatsoever (things) sorrow may cause to be shed from the
+heart or may take away (from it), assuredly it will bring better
+in exchange.
+
+(Whenever) the thought (of sorrow) comes into thy breast
+anew, go to meet it with smiles and laughter.
+
+
+*Original*
+
+هذا الإنسان هو بيت ضيوف
+كل صباح يستقبل زائر جديد.
+بهجة، حزن، احباط ولحظة وعي
+تأتي كضيف غير متوقّع.
+استقبلهم واعتني بهم جميعاً!
+حتى وإن كانوا حشداً من الأسى،
+يجرفون بعنف كل أثاث منزلك،
+عامل كل ضيف باحترام.
+ربّما هو ينظّف لك المكان
+لاستقبال فرح الجديد.
+الفكرة السوداء، الخزي، الرذيلة،
+استقبلهم على الباب بضحكة،
+وادعوهم للدخول.
+كن ممتناً لكل من يأتي لأن كلّ منهم
+يتم إرساله كمرشد من بعيد.
+– جلال الدين الرومي، بيت الضيوف
