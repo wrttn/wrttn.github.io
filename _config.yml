@@ -1,0 +1,23 @@
+collections:
+  r:
+    label: r
+    output: true
+    permalink: /:collection/:name
+    layout: default
+  c:
+    label: c
+    output: true
+    permalink: /:collection/:name
+    layout: default
+  w:
+    label: w
+    output: true
+    permalink: /:collection/:name
+    layout: default
+    
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
