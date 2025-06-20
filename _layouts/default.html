@@ -1,0 +1,116 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+
+  <title>{{ page.title }}</title>
+
+</head>
+<body>  
+  
+  <div class="content post">
+
+    <div class="title">
+      <h1>{{ page.title }}</h1>
+    </div>
+    
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+  </div>
+  
+</body>
+  
+<style>
+  
+body {
+    font-family: monospace; 
+    margin: auto;
+    max-width: 50em;
+}
+
+.content {
+    padding: 1em;
+}
+
+/* ul { padding-left: 25px; } */
+ul.index { 
+  padding-left: 25px; 
+  /*columns:2;*/ 
+  line-height: 20px;
+}
+ul.index li { 
+  list-style-type: decimal-leading-zero; 
+  list-style-position: inside; 
+  text-transform: capitalize;
+  margin-bottom: 5px;
+}
+ul.index li::marker { 
+  color: #888; 
+}
+  
+p {
+  white-space: pre-wrap;
+}
+  
+.index-post {
+    margin-top: 8px;
+}
+.index-date {
+    margin-left: 0px;
+    display: inline-block;
+    font-size: 0.2em;
+}
+.index-title {
+    display: inline-block;
+    font-size: 1.1em;
+}
+
+.post .title {
+    margin-bottom: 2em;
+}
+
+.post .links {
+    text-align: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.post .back {
+    font-size: 0.9em;
+}
+.post h1 {
+    font-size: 1.2em;
+    margin-bottom: 0px;
+}
+
+.post h2 {
+    font-size: 1.0em;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #eee;
+}
+
+.post h3 {
+    font-size: 0.8em;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #eee;
+}
+
+.post-date { font-size: 10px; }
+
+ 
+.post table {
+  border-spacing: 0px;  
+}
+.post tr:nth-child(even) { background: #eee; }
+.post tr:nth-child(odd) { background: #fff; }
+   
+.post td { 
+  padding-right: 10px;  
+}
+</style>
+  
+</html>
