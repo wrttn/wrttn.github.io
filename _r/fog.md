@@ -1,0 +1,13 @@
+---
+title: Fog
+author: Carl Sandburg
+layout: default
+---
+
+The fog comes
+on little cat feet.
+
+It sits looking
+over harbor and city
+on silent haunches
+and then moves on.
