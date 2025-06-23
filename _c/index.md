@@ -15,3 +15,17 @@ title: Cooking
   
 {% endfor %}
 
+<style>
+  @media (min-width: 45rem) {           /* ≈ 720 px and up */
+    main {                              /* or #content if your layout uses it */
+        column-count: 3;              /* ask for up to three columns        */
+        column-gap: 2rem;             /* space between the columns          */
+    }
+
+    /* keep each category together so headings don't split */
+    h2, h3, ul {
+        break-inside: avoid;
+        -webkit-column-break-inside: avoid;
+    }
+}
+</style>
