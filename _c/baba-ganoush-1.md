@@ -1,5 +1,5 @@
 ---
-title: Baba Ganoush
+title: Baba Ganoush 1
 category: Condiments
 ---
 
